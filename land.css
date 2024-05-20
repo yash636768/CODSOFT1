@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-size: contain;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 20px;
+    
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    
+    position: absolute;
+    
+    width: 100%;
+}
+#ya
+{
+    background-image: url(bggl.jpg);
+    background-size: cover;
+}
+#first{
+    font-weight: bolder;
+    font-size: medium;
+    color: darkblue;
+    font-family: cursive;
+}
+#sec{
+    font-weight: lighter;
+    font-family:cursive;
+    font-weight: bold;
+}
+
+#features{
+    font-weight: bolder;
+    font-family: cursive;
+}
